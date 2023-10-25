@@ -6,7 +6,7 @@
 Link to my CV: 
 
 ### Tools
-![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)
+[![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://https://github.com/DariaMartinovskaya/Mobile_testing)
 ![Web_testing](https://img.shields.io/badge/WEB_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)
 ![GIT_Bash](https://img.shields.io/badge/GIT_BASH-grey?style=for-the-badge&logo=GIT&logoColor=appveyor)
 ![GIT_HUB](https://img.shields.io/badge/GIT_HUB-grey?style=for-the-badge&logo=GITHUB&logoColor=appveyor)
