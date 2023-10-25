@@ -28,8 +28,7 @@ The CV Link will be added later.
 ### Foreign languages
 # ![English](https://img.shields.io/badge/English-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/full_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![German](https://img.shields.io/badge/German-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/General_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
-# ![Russian](https://img.shields.io/badge/russian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
-# ![Belarusian](https://img.shields.io/badge/Belarusian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
+# ![Russian](https://img.shields.io/badge/russian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Belarusian](https://img.shields.io/badge/Belarusian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/LIMITED_WORKING_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 
