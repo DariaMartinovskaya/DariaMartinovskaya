@@ -1,4 +1,4 @@
-### Hi there, I'm Daria Martinovskaya 🖐
+### Hi there, I'm Daria Martinovskaya!
 
 ### I'm a QA Engineer with 5+ years background as a lawyer in an international law firm. 
 
