@@ -23,7 +23,9 @@ Link to my CV:
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-grey?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=appveyor)
 ![ADB](https://img.shields.io/badge/ADB-grey?style=for-the-badge&logo=ADB&logoColor=appveyor)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-grey?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=appveyor)
-
+![Mentoring](https://img.shields.io/badge/Mentoring-grey?style=for-the-badge&logo=Mentoring&logoColor=appveyor)
+![Team_management](https://img.shields.io/badge/Team_management-grey?style=for-the-badge&logo=Team_Management&logoColor=appveyor)
+![Project_management](https://img.shields.io/badge/Project_management-grey?style=for-the-badge&logo=Project_Management&logoColor=appveyor)
 
 ### Foreign languages
 # ![English](https://img.shields.io/badge/English-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/full_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
