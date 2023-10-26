@@ -34,10 +34,9 @@ Link to my CV:
 # ![Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 
 ### Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=DariaMartinovskaya)](https://github.com/DariaMartinovskaya/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DariaMartinovskaya)](https://git.io/streak-stats)
 [![DariaMartinovskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaMartinovskaya)](https://github.com/DariaMartinovskaya/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=DariaMartinovskaya)
+#![](https://komarev.com/ghpvc/?username=DariaMartinovskaya)
 
 ### Contact me
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-grey?style=for-the-badge&logo=LinkedIN&logoColor=appveyor)](https://www.linkedin.com/in/daria-martinovskaya)
