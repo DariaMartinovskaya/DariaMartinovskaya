@@ -32,6 +32,10 @@
 # ![Russian](https://img.shields.io/badge/russian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Belarusian](https://img.shields.io/badge/Belarusian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 
+### My latest achievements
+<div>
+<a href="https://github.com/DariaMartinovskaya/DariaMartinovskaya/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN-1.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/DariaMartinovskaya/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN-1.png" alt="Certificate of complection a course" width="150"></a>
+
 ### Contact me
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-grey?style=for-the-badge&logo=LinkedIN&logoColor=appveyor)](https://www.linkedin.com/in/daria-martinovskaya)
 [![GMAIL](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=GMAIL&logoColor=appveyor)](mailto:daria.martinovskaya@gmail.com)
