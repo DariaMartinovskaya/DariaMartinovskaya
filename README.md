@@ -33,10 +33,9 @@ Link to my CV:
 # ![Russian](https://img.shields.io/badge/russian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Belarusian](https://img.shields.io/badge/Belarusian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 
-[![DariaMartinovskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaMartinovskaya)](https://github.com/DariaMartinovskaya/github-readme-stats)
-
-
 ### Contact me
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-grey?style=for-the-badge&logo=LinkedIN&logoColor=appveyor)](https://www.linkedin.com/in/daria-martinovskaya)
 [![GMAIL](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=GMAIL&logoColor=appveyor)](mailto:daria.martinovskaya@gmail.com)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=Telegram&logoColor=appveyor)](https://t.me/daria_martinovskaya)
+
+[![DariaMartinovskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaMartinovskaya)](https://github.com/DariaMartinovskaya/github-readme-stats)
