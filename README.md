@@ -3,7 +3,7 @@
 ### I'm a QA Engineer with 5+ years background as a lawyer in an international law firm. 
 
 ### CV
-Link to my CV: 
+Link to my CV: (https://drive.google.com/file/d/1doyGe8JXAp7wDhebTzSDKlr8NLMbnLrQ/view?usp=sharing)
 
 ### Tools
 [![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Mobile_testing)
