@@ -34,8 +34,8 @@
 
 ### My latest achievements
 <div>
-<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" alt="Reference letter IT_Academy" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" alt="Certificate IT_Academy completion" width="150"></a> 
+<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" alt="Reference letter IT_Academy" width="150"></a>
 <div> 
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" alt="Deutschkurs_B1.2" width="150"></a>
   
