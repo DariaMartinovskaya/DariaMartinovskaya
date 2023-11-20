@@ -18,7 +18,7 @@
 [![DevTools](https://img.shields.io/badge/DEVTOOLS-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/DevTools)
 [![JMeter](https://img.shields.io/badge/JMETER-grey?style=for-the-badge&logo=JMETER&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/JMeter)
 [![Charles_Proxy](https://img.shields.io/badge/CHARLES_PROXY-grey?style=for-the-badge&logo=CHARLESPROXY&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Charles_Proxy)
-![Fiddler](https://img.shields.io/badge/Fiddler-grey?style=for-the-badge&logo=FIDDLER&logoColor=appveyor)
+[![Fiddler](https://img.shields.io/badge/Fiddler-grey?style=for-the-badge&logo=FIDDLER&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Fiddler/tree/main)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-grey?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=appveyor)
 ![ADB](https://img.shields.io/badge/ADB-grey?style=for-the-badge&logo=ADB&logoColor=appveyor)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-grey?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=appveyor)
