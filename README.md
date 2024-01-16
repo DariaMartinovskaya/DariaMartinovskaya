@@ -23,7 +23,7 @@
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-grey?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Android_Studio)
 [![ADB](https://img.shields.io/badge/ADB-grey?style=for-the-badge&logo=ADB&logoColor=appveyor)](https://github.com/DariaMartinovskaya/ADB)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-grey?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=appveyor)
-[![CI/CD](https://img.shields.io/badge/CI-CD-grey?style=for-the-badge&logo=CI-CD&logoColor=appveyor)](https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins)
+[![CI-CD](https://img.shields.io/badge/CI-CD-grey?style=for-the-badge&logo=CI-CD&logoColor=appveyor)](https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins)
 [![Docker](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=Docker&logoColor=appveyor)](https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins)
 [![Jenkins](https://img.shields.io/badge/Jenkins-grey?style=for-the-badge&logo=Jenkins&logoColor=appveyor)](https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins)
 ![Mentoring](https://img.shields.io/badge/Mentoring-grey?style=for-the-badge&logo=Mentoring&logoColor=appveyor)
