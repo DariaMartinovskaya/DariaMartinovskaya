@@ -36,17 +36,20 @@
 ### Foreign languages
 # ![English](https://img.shields.io/badge/English-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/full_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![German](https://img.shields.io/badge/German-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/General_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
+<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" alt="Deutschkurs_B1.2" width="150"></a>
 # ![Russian](https://img.shields.io/badge/russian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Belarusian](https://img.shields.io/badge/Belarusian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 
 ### My latest achievements
+#### Certificates
 <div>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" alt="Git" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Terminal.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Terminal.png" alt="Terminal" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" alt="Certificate IT_Academy completion" width="150"></a> 
+  
+#### References
+<div>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" alt="Reference letter IT_Academy" width="150"></a>
-<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" alt="Deutschkurs_B1.2" width="150"></a>
-  <div>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-1.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-1.png" alt="bnt_Reference_letter_1" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-2.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-2.png" alt="bnt_Reference_letter_2" width="150"></a>
 
