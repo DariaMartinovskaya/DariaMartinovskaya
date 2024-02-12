@@ -46,7 +46,10 @@
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" alt="Certificate IT_Academy completion" width="150"></a> 
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" alt="Reference letter IT_Academy" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" alt="Deutschkurs_B1.2" width="150"></a>
-  
+  <div>
+<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-1.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-1.png" alt="bnt_Reference_letter_1" width="150"></a>
+<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-2.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-2.png" alt="bnt_Reference_letter_2" width="150"></a>
+
 ### Contact me
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-grey?style=for-the-badge&logo=LinkedIN&logoColor=appveyor)](https://www.linkedin.com/in/daria-martinovskaya)
 [![GMAIL](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=GMAIL&logoColor=appveyor)](mailto:daria.martinovskaya@gmail.com)
