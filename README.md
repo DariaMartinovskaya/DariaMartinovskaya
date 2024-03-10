@@ -1,6 +1,6 @@
 ### Hi there, I'm Daria Martinovskaya.
 
-### I am a Manual QA Engineer with 5+ years strong background as a lawyer in an international law firm which helped me a lot in software testing: strong analytical skills, precision and attention to details, logical thinking, communication skills, as well as good skills in documents drafting and analysis.
+### I am a QA Engineer with 5+ years strong background as a lawyer in an international law firm which helped me a lot in software testing: strong analytical skills, precision and attention to details, logical thinking, communication skills, as well as good skills in documents drafting and analysis.
 
 ### --> <a href="https://drive.google.com/file/d/1q5dHlxNKH1S_f5xjjMy5RL5R1MoTv5Tz/view?usp=share_link" target="_blank">Link to my CV.</a>
 
