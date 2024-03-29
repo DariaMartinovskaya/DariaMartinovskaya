@@ -57,7 +57,8 @@
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-grey?style=for-the-badge&logo=LinkedIN&logoColor=appveyor)](https://www.linkedin.com/in/daria-martinovskaya)
 [![GMAIL](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=GMAIL&logoColor=appveyor)](mailto:daria.martinovskaya@gmail.com)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=Telegram&logoColor=appveyor)](https://t.me/daria_martinovskaya)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=WhatsApp&logoColor=appveyor)](https://wa.me/80293652029)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/80293652029)
+       
 
 ![](https://komarev.com/ghpvc/?username=DariaMartinovskaya)
 
