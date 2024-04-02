@@ -2,7 +2,7 @@
 
 ### I am a QA Engineer with 5+ years strong background as a lawyer in an international law firm which helped me a lot in obtaining such soft must have skills as: strong analytical skills, precision and attention to details, logical thinking, communication skills, as well as good skills in documents drafting and analysis.
 
-### --> <a href="https://drive.google.com/file/d/1oRMUsDXH0EIwkqvAxayoNeAILP4M_QSx/view?usp=sharing" target="_blank">Link to my CV.</a>
+### --> <a href="https://drive.google.com/file/d/1g7W69AruiCPy2GFzrb5CorIk_dwn__kv/view?usp=sharing" target="_blank">Link to my CV.</a>
 
 ### Tools
 [![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Mobile_testing)
