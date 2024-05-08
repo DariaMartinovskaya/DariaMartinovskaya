@@ -12,6 +12,7 @@
 ![JIRA](https://img.shields.io/badge/JIRA-grey?style=for-the-badge&logo=JIRA&logoColor=appveyor)
 ![TestRAIL](https://img.shields.io/badge/TestRAIL-grey?style=for-the-badge&logo=TESTRAIL&logoColor=appveyor)
 [![Postman](https://img.shields.io/badge/POSTMAN-grey?style=for-the-badge&logo=POSTMAN&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Postman)
+![Swagger](https://img.shields.io/badge/SWAGGER-grey?style=for-the-badge&logo=SWAGGER&logoColor=appveyor)
 [![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=SQL&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/SQL)
 ![DBeaver](https://img.shields.io/badge/DBeaver-grey?style=for-the-badge&logo=DBEAVER&logoColor=appveyor)
 ![Client_Server_Architecture](https://img.shields.io/badge/Client_Server_Architecture-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)
