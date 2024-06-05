@@ -4,7 +4,7 @@
 
 Prior to my testing role, I gained 5+ years background as a lawyer in an international law firm, where I advised IT companies on various legal issues. Thus, I am a logical thinker with strong analytical, communication and presentation skills who is good at solving problems. I strive to deliver high-quality results that meet the expectations and needs of clients and users.
 
-### --> <a href="https://drive.google.com/file/d/1aN0kbqgBDLWISYKeGET0iawI103y8SRn/view?usp=sharing" target="_blank">Link to my CV.</a>
+### --> <a href="https://drive.google.com/file/d/1j0UkZbTRbfD6eUOil6qwoM105wKGl4hq/view?usp=sharing" target="_blank">Link to my CV.</a>
 
 ### Tools
 [![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Mobile_testing)
