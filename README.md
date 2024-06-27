@@ -46,6 +46,7 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 ### My latest achievements
 #### Certificates
 <div>
+<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_CUR.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_CUR.png" alt="CUR" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" alt="Git" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Terminal.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Terminal.png" alt="Terminal" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" alt="Certificate IT_Academy completion" width="150"></a> 
