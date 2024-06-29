@@ -33,7 +33,7 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 ![Team_management](https://img.shields.io/badge/Team_management-grey?style=for-the-badge&logo=Team_Management&logoColor=appveyor)
 ![Project_management](https://img.shields.io/badge/Project_management-grey?style=for-the-badge&logo=Project_Management&logoColor=appveyor)
 
-### I am currently learning
+###№ I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 
 ### Test documentation
