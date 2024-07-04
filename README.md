@@ -37,7 +37,7 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 
 ### Test documentation
-### --> <a href="https://github.com/DariaMartinovskaya/Mobile_testing/blob/main/2023-09-28_Mobile_testing_features_checklist.pdf/" target="_blank">Link to Mobile pecularities Checklist.</a>
+### --> <a href="https://drive.google.com/file/d/1AYdWaRW5IzIagibxGWJoQG2crXA0F4E8/view?usp=sharing" target="_blank">Link to Mobile pecularities Checklist.</a>
 
 ### Foreign languages
 # ![English](https://img.shields.io/badge/English-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/full_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
