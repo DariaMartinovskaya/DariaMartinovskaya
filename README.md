@@ -17,7 +17,7 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 ![Swagger](https://img.shields.io/badge/SWAGGER-grey?style=for-the-badge&logo=SWAGGER&logoColor=appveyor)
 [![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=SQL&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/SQL)
 ![DBeaver](https://img.shields.io/badge/DBeaver-grey?style=for-the-badge&logo=DBEAVER&logoColor=appveyor)
-![Client_Server_Architecture](https://img.shields.io/badge/Client_Server_Architecture-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)
+[![Client_Server_Architecture](https://img.shields.io/badge/Client_Server_Architecture-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Client-Server)
 [![DevTools](https://img.shields.io/badge/DEVTOOLS-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/DevTools)
 [![JMeter](https://img.shields.io/badge/JMETER-grey?style=for-the-badge&logo=JMETER&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/JMeter)
 [![Charles_Proxy](https://img.shields.io/badge/CHARLES_PROXY-grey?style=for-the-badge&logo=CHARLESPROXY&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Charles_Proxy)
