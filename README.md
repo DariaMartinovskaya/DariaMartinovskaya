@@ -36,7 +36,7 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 
 ### I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
-[![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=AUTOMATION&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
+![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=AUTOMATION&logoColor=appveyor)
 
 ### Test documentation
 ### --> <a href="https://drive.google.com/file/d/1AYdWaRW5IzIagibxGWJoQG2crXA0F4E8/view?usp=sharing" target="_blank">Link to Mobile pecularities Checklist.</a>
