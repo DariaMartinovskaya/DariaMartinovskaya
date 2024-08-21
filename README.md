@@ -36,6 +36,7 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 
 ### I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
+[![Pycharm](https://img.shields.io/badge/Pycharm-grey?style=for-the-badge&logo=PYCHARM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 ![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=AUTOMATION&logoColor=appveyor)
 
 ### Test documentation
