@@ -38,6 +38,7 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Pycharm](https://img.shields.io/badge/Pycharm-grey?style=for-the-badge&logo=PYCHARM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=AUTOMATION&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
+[![Selenium](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=SELENIUM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=Codewars&logoColor=appveyor)](https://www.codewars.com/users/DariaMartinovskaya)
 
 ### Test documentation
