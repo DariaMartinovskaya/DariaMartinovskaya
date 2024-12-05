@@ -2,7 +2,7 @@
 
 ### I am a QA Engineer with 1+ year experience in mobile (iOS/Android) and web apps manual testing.
 
-### I am pursuing a Master's in Informatics Engineering and Internet of Things at the Superior School of Technology and Management (ESTIG), part of The Polytechnic Institute of Beja (Portugal).
+### I am pursuing a Master's in Informatics Engineering and Internet of Things (IoT) at the Superior School of Technology and Management (ESTIG), part of The Polytechnic Institute of Beja (Portugal).
 
 Prior to my testing role, I gained 5+ years background as a lawyer in an international law firm, where I advised IT companies on various legal issues. Thus, I am a logical thinker with strong analytical, communication and presentation skills who is good at solving problems. 
 
