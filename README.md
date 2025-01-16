@@ -4,6 +4,8 @@
 
 ### I am pursuing a Master's in Informatics Engineering and Internet of Things (IoT) in Portugal.
 
+### I am also learning test automation using Python.
+
 Prior to my testing role, I gained 5+ years background as a lawyer in an international law firm, where I advised IT companies on various legal issues. Thus, I am a logical thinker with strong analytical, communication and presentation skills who is good at solving problems. 
 
 ### --> <a href="https://drive.google.com/file/d/1uNBnc-21bRaD1xjFpfyhEJ6b7KF1s-Rp/view?usp=share_link" target="_blank">Link to my CV.</a>
