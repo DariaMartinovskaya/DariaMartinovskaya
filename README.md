@@ -1,14 +1,18 @@
-### Hi there, I'm Daria Martinovskaya.
+## Hi there, I'm Daria Martinovskaya.
 
-### QA Engineer with 1+ year experience in mobile (iOS/Android) and web apps manual testing.
+### :woman_technologist: QA Engineer with 1+ year experience in mobile (iOS/Android) and web apps manual testing.
 
-### Pursuing a Master's in Informatics Engineering and Internet of Things (IoT) in Portugal.
+### :mortar_board: Pursuing a Master's in Informatics Engineering and Internet of Things (IoT) in Portugal.
 
-### Learning test automation using Python.
+### :snake: Learning test automation using Python.
 
-Prior to my testing role, I gained 5+ years background as a lawyer in an international law firm, where I advised IT companies on various legal issues. Thus, I am a logical thinker with strong analytical, communication and presentation skills who is good at solving problems. 
+#### ⚖️ Prior to my testing role, I gained 5+ years background as a lawyer in an international law firm, where I advised IT companies on various legal issues. Thus, I am a logical thinker with strong analytical, communication and presentation skills who is good at solving problems. 
+
+---
 
 ### --> <a href="https://drive.google.com/file/d/1uNBnc-21bRaD1xjFpfyhEJ6b7KF1s-Rp/view?usp=share_link" target="_blank">Link to my CV.</a>
+
+---
 
 ### Tools
 [![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Mobile_testing)
@@ -45,8 +49,12 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 [![Selenium](https://img.shields.io/badge/Selenium-grey?style=for-the-badge&logo=SELENIUM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Selenium_autotests_practice)
 [![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=Codewars&logoColor=appveyor)](https://www.codewars.com/users/DariaMartinovskaya)
 
+---
+
 ### Test documentation
 ### --> <a href="https://drive.google.com/file/d/1AYdWaRW5IzIagibxGWJoQG2crXA0F4E8/view?usp=sharing" target="_blank">Link to Mobile pecularities Checklist.</a>
+
+---
 
 ### Foreign languages
 # ![English](https://img.shields.io/badge/English-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/full_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
@@ -55,6 +63,8 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 # ![Russian](https://img.shields.io/badge/russian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Belarusian](https://img.shields.io/badge/Belarusian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 
+---
+
 ### My latest achievements
 #### Certificates
 <div>
@@ -62,12 +72,14 @@ Prior to my testing role, I gained 5+ years background as a lawyer in an interna
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" alt="Git" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Terminal.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Terminal.png" alt="Terminal" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Software%20Testing%20Courses%20Stormnet%20IT-Academy%20Certificate%20EN.png" alt="Certificate IT_Academy completion" width="150"></a> 
-  
+
 #### References
 <div>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20IT-Academy%20Stormnet%20Technolodgies.png" alt="Reference letter IT_Academy" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-1.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-1.png" alt="bnt_Reference_letter_1" width="150"></a>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-2.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2024-01-31%20Reference%20Letter%20bnt%20DM-2.png" alt="bnt_Reference_letter_2" width="150"></a>
+
+---
 
 ### Contact me
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-grey?style=for-the-badge&logo=LinkedIN&logoColor=appveyor)](https://www.linkedin.com/in/daria-martinovskaya)
