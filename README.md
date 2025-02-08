@@ -25,6 +25,9 @@
 [![Postman](https://img.shields.io/badge/POSTMAN-grey?style=for-the-badge&logo=POSTMAN&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Postman)
 ![Swagger](https://img.shields.io/badge/SWAGGER-grey?style=for-the-badge&logo=SWAGGER&logoColor=appveyor)
 [![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=SQL&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/SQL)
+![NoSQL](https://img.shields.io/badge/NoSQL-grey?style=for-the-badge&logo=NoSQL&logoColor=appveyor)
+![Big_Data](https://img.shields.io/badge/Big_data-grey?style=for-the-badge&logo=Big_data&logoColor=appveyor)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB&logoColor=appveyor)
 ![DBeaver](https://img.shields.io/badge/DBeaver-grey?style=for-the-badge&logo=DBEAVER&logoColor=appveyor)
 [![Client_Server_Architecture](https://img.shields.io/badge/Client_Server_Architecture-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Client-Server)
 [![DevTools](https://img.shields.io/badge/DEVTOOLS-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/DevTools)
@@ -46,8 +49,6 @@
 [![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++&logoColor=appveyor)](https://github.com/DariaMartinovskaya/High_Performance_Computing)
 [![HighPerformanceComputing](https://img.shields.io/badge/High_performance_computing-grey?style=for-the-badge&logo=HighPerformanceComputing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/High_Performance_Computing)
 [![NaturalLanguageProcessing](https://img.shields.io/badge/Natural_Language_processing-grey?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python_Natural_Language_Processing)
-![Big_Data](https://img.shields.io/badge/Big_data-grey?style=for-the-badge&logo=Big_data&logoColor=appveyor)
-![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB&logoColor=appveyor)
 
 ### I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
