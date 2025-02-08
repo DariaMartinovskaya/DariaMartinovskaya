@@ -42,7 +42,8 @@
 ![Project_management](https://img.shields.io/badge/Project_management-grey?style=for-the-badge&logo=Project_Management&logoColor=appveyor)
 [![Accessibility_testing](https://img.shields.io/badge/ACCESSIBILITY_TESTING-grey?style=for-the-badge&logo=ACCESSIBILITY&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Accessibility_testing)
 [![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++&logoColor=appveyor)](https://github.com/DariaMartinovskaya/High_Performance_Computing)
-[![HighPerformanceComputing](https://img.shields.io/badge/HPC-grey?style=for-the-badge&logo=HighPerformanceComputing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/High_Performance_Computing)
+[![HighPerformanceComputing](https://img.shields.io/badge/High_performance_computing-grey?style=for-the-badge&logo=HighPerformanceComputing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/High_Performance_Computing)
+[![NaturalLanguageProcessing](https://img.shields.io/badge/Natural_Language_processing-grey?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python_Natural_Language_Processing)
 
 ### I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
