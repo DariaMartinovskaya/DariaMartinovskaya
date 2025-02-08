@@ -20,6 +20,7 @@
 [![GIT_Bash](https://img.shields.io/badge/GIT_BASH-grey?style=for-the-badge&logo=GIT&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Terminal)
 [![GIT_HUB](https://img.shields.io/badge/GIT_HUB-grey?style=for-the-badge&logo=GITHUB&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Git)
 ![JIRA](https://img.shields.io/badge/JIRA-grey?style=for-the-badge&logo=JIRA&logoColor=appveyor)
+![Miro](https://img.shields.io/badge/Miro-grey?style=for-the-badge&logo=Miro&logoColor=appveyor)
 ![TestRAIL](https://img.shields.io/badge/TestRAIL-grey?style=for-the-badge&logo=TESTRAIL&logoColor=appveyor)
 [![Postman](https://img.shields.io/badge/POSTMAN-grey?style=for-the-badge&logo=POSTMAN&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Postman)
 ![Swagger](https://img.shields.io/badge/SWAGGER-grey?style=for-the-badge&logo=SWAGGER&logoColor=appveyor)
