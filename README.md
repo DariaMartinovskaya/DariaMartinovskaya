@@ -44,6 +44,8 @@
 [![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++&logoColor=appveyor)](https://github.com/DariaMartinovskaya/High_Performance_Computing)
 [![HighPerformanceComputing](https://img.shields.io/badge/High_performance_computing-grey?style=for-the-badge&logo=HighPerformanceComputing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/High_Performance_Computing)
 [![NaturalLanguageProcessing](https://img.shields.io/badge/Natural_Language_processing-grey?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python_Natural_Language_Processing)
+![Big_Data](https://img.shields.io/badge/Big_data-grey?style=for-the-badge&logo=Big_data&logoColor=appveyor)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB&logoColor=appveyor)
 
 ### I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
