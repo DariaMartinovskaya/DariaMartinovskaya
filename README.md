@@ -15,12 +15,6 @@
 ---
 
 ### Tools & Skills
-[![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Mobile_testing)
-[![xCode](https://img.shields.io/badge/XCode-grey?style=for-the-badge&logo=XCODE&logoColor=appveyor)](https://github.com/DariaMartinovskaya/XCode)
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-grey?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Android_Studio)
-[![ADB](https://img.shields.io/badge/ADB-grey?style=for-the-badge&logo=ADB&logoColor=appveyor)](https://github.com/DariaMartinovskaya/ADB)
-[![Charles_Proxy](https://img.shields.io/badge/CHARLES_PROXY-grey?style=for-the-badge&logo=CHARLESPROXY&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Charles_Proxy)
-[![Fiddler](https://img.shields.io/badge/Fiddler-grey?style=for-the-badge&logo=FIDDLER&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Fiddler/tree/main)
 ![Web_testing](https://img.shields.io/badge/WEB_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)
 [![Client_Server_Architecture](https://img.shields.io/badge/Client_Server_Architecture-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Client-Server)
 [![DevTools](https://img.shields.io/badge/DEVTOOLS-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/DevTools)
@@ -28,6 +22,12 @@
 [![JMeter](https://img.shields.io/badge/JMETER-grey?style=for-the-badge&logo=JMETER&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/JMeter)
 [![Postman](https://img.shields.io/badge/POSTMAN-grey?style=for-the-badge&logo=POSTMAN&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Postman)
 ![Swagger](https://img.shields.io/badge/SWAGGER-grey?style=for-the-badge&logo=SWAGGER&logoColor=appveyor)
+[![Mobile_testing](https://img.shields.io/badge/MOBILE_TESTING-grey?style=for-the-badge&logo=DEVTOOLS&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/Mobile_testing)
+[![xCode](https://img.shields.io/badge/XCode-grey?style=for-the-badge&logo=XCODE&logoColor=appveyor)](https://github.com/DariaMartinovskaya/XCode)
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-grey?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Android_Studio)
+[![ADB](https://img.shields.io/badge/ADB-grey?style=for-the-badge&logo=ADB&logoColor=appveyor)](https://github.com/DariaMartinovskaya/ADB)
+[![Charles_Proxy](https://img.shields.io/badge/CHARLES_PROXY-grey?style=for-the-badge&logo=CHARLESPROXY&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Charles_Proxy)
+[![Fiddler](https://img.shields.io/badge/Fiddler-grey?style=for-the-badge&logo=FIDDLER&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Fiddler/tree/main)
 [![Accessibility_testing](https://img.shields.io/badge/ACCESSIBILITY_TESTING-grey?style=for-the-badge&logo=ACCESSIBILITY&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Accessibility_testing)
 [![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=SQL&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/SQL)
 ![DBeaver](https://img.shields.io/badge/DBeaver-grey?style=for-the-badge&logo=DBEAVER&logoColor=appveyor)
