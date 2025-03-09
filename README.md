@@ -49,7 +49,7 @@
 [![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++&logoColor=appveyor)](https://github.com/DariaMartinovskaya/HPC)
 [![HighPerformanceComputing](https://img.shields.io/badge/High_performance_computing-grey?style=for-the-badge&logo=HighPerformanceComputing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/HPC)
 [![NaturalLanguageProcessing](https://img.shields.io/badge/Natural_Language_processing-grey?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python_Natural_Language_Processing)
-[![CyberPhysicalSystems](https://img.shields.io/badge/Cyber-phisical_systems-grey?style=for-the-badge&logo=CyberPhysical_systems&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Cyber-Physical_Systems)
+[![CyberPhysicalSystems](https://img.shields.io/badge/Cyber-phisical_systems-grey?style=for-the-badge&logo=CyberPhysical_systems&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Cyber_Physical_Systems)
 
 ### I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
