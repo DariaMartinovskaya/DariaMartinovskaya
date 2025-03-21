@@ -45,6 +45,7 @@
 [![CyberPhysicalSystems](https://img.shields.io/badge/Cyber_Physical_Systems-grey?style=for-the-badge&logo=CyberPhysical_systems&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Cyber_Physical_Systems)
 [![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++&logoColor=appveyor)](https://github.com/DariaMartinovskaya/HPC)
 [![NaturalLanguageProcessing](https://img.shields.io/badge/Natural_Language_processing-grey?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python_Natural_Language_Processing)
+![CupCarbon](https://img.shields.io/badge/CupCarbon-grey?style=for-the-badge&logo=CupCarbon&logoColor=appveyor)
 ![Project_management](https://img.shields.io/badge/Project_management-grey?style=for-the-badge&logo=Project_Management&logoColor=appveyor)
 ![JIRA](https://img.shields.io/badge/JIRA-grey?style=for-the-badge&logo=JIRA&logoColor=appveyor)
 ![Miro](https://img.shields.io/badge/Miro-grey?style=for-the-badge&logo=Miro&logoColor=appveyor)
