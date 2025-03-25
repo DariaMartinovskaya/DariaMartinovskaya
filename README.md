@@ -61,6 +61,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=Codewars&logoColor=appveyor)](https://www.codewars.com/users/DariaMartinovskaya)
 ![InternetOfThings](https://img.shields.io/badge/Internet_Of_Things-grey?style=for-the-badge&logo=Internet_Of_Things&logoColor=appveyor)
 ![CupCarbon](https://img.shields.io/badge/Cup_Carbon-grey?style=for-the-badge&logo=CupCarbon&logoColor=appveyor)
+![KNIME](https://img.shields.io/badge/KNIME-grey?style=for-the-badge&logo=KNIME&logoColor=appveyor)
 ---
 
 ### Test documentation
