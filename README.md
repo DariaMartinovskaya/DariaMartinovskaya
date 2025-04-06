@@ -6,7 +6,8 @@
 
 ### :snake: Learning test automation using Python.
 
-#### ⚖️ Prior to my testing role, I gained 5+ years background as a lawyer in an international law firm, where I advised IT companies on various legal issues. Thus, I am a logical thinker with strong analytical, communication and presentation skills who is good at solving problems. 
+### ⚖️ Former IT Lawyer – leveraging 5+ years of analytical problem-solving for meticulous test strategies.
+### 🌍 Portugal-based (full work rights) or remote.
 
 ---
 
