@@ -47,6 +47,12 @@
 [![CyberPhysicalSystems](https://img.shields.io/badge/Cyber_Physical_Systems-grey?style=for-the-badge&logo=CyberPhysical_systems&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Cyber_Physical_Systems)
 [![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++&logoColor=appveyor)](https://github.com/DariaMartinovskaya/HPC)
 [![NaturalLanguageProcessing](https://img.shields.io/badge/Natural_Language_processing-grey?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python_Natural_Language_Processing)
+[![ModelBasedDevelopment](https://img.shields.io/badge/Model_Based_Development-grey?style=for-the-badge&logo=Modelbaseddevelopment&logoColor=appveyor)]()
+[![IOPTTools](https://img.shields.io/badge/IOPT_Tools-grey?style=for-the-badge&logo=IOPT_Tools&logoColor=appveyor)]()
+[![RENEW](https://img.shields.io/badge/RENEW-grey?style=for-the-badge&logo=RENEWs&logoColor=appveyor)]()
+![CupCarbon](https://img.shields.io/badge/Cup_Carbon-grey?style=for-the-badge&logo=CupCarbon&logoColor=appveyor)
+![DataScience](https://img.shields.io/badge/Data_Science-grey?style=for-the-badge&logo=Data_Science&logoColor=appveyor)
+![KNIME](https://img.shields.io/badge/KNIME-grey?style=for-the-badge&logo=KNIME&logoColor=appveyor)
 ![Project_management](https://img.shields.io/badge/Project_management-grey?style=for-the-badge&logo=Project_Management&logoColor=appveyor)
 ![JIRA](https://img.shields.io/badge/JIRA-grey?style=for-the-badge&logo=JIRA&logoColor=appveyor)
 ![Miro](https://img.shields.io/badge/Miro-grey?style=for-the-badge&logo=Miro&logoColor=appveyor)
@@ -62,8 +68,6 @@
 [![Selenium](https://img.shields.io/badge/Selenium-grey?style=for-the-badge&logo=SELENIUM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Selenium_autotests_practice)
 [![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=Codewars&logoColor=appveyor)](https://www.codewars.com/users/DariaMartinovskaya)
 ![InternetOfThings](https://img.shields.io/badge/Internet_Of_Things-grey?style=for-the-badge&logo=Internet_Of_Things&logoColor=appveyor)
-![CupCarbon](https://img.shields.io/badge/Cup_Carbon-grey?style=for-the-badge&logo=CupCarbon&logoColor=appveyor)
-![KNIME](https://img.shields.io/badge/KNIME-grey?style=for-the-badge&logo=KNIME&logoColor=appveyor)
 ---
 
 ### Test documentation
