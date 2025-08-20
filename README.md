@@ -2,7 +2,7 @@
 
 ### :woman_technologist: QA Engineer with 1,5 years of experience in mobile (iOS/Android) and web apps manual testing.
 
-### :mortar_board: Pursuing a Master's program in Informatics Engineering and Internet of Things (IoT) in Portugal.
+### :mortar_board: Pursuing a Master's program in Informatics Engineering and Internet of Things (IoT) in Portugal (2nd year).
 
 ### :snake: Learning test automation using Python.
 
