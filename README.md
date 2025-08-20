@@ -51,6 +51,7 @@
 [![Node-Red](https://img.shields.io/badge/Node-Red-grey?style=for-the-badge&logo=Node-Red&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
 [![ESP32](https://img.shields.io/badge/ESP32-grey?style=for-the-badge&logo=ESP32&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
 [![RaspberryPi](https://img.shields.io/badge/RaspberryPi-grey?style=for-the-badge&logo=RaspberryPi&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
+[![Eclipse_Mosquitto](https://img.shields.io/badge/Eclipse_Mosquitto-grey?style=for-the-badge&logo=Eclipse_Mosquitto&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
 [![NaturalLanguageProcessing](https://img.shields.io/badge/Natural_Language_processing-grey?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python_Natural_Language_Processing)
 [![ModelBasedDevelopment](https://img.shields.io/badge/Model_Based_Development-grey?style=for-the-badge&logo=Modelbaseddevelopment&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Model-based_development)
 [![IOPTTools](https://img.shields.io/badge/IOPT_Tools-grey?style=for-the-badge&logo=IOPT_Tools&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Model-based_development)
