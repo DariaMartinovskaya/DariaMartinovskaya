@@ -47,6 +47,7 @@
 [![HighPerformanceComputing](https://img.shields.io/badge/High_performance_computing-grey?style=for-the-badge&logo=HighPerformanceComputing&logoColor=appveyor)](https://github.com/DariaMartinovskaya/HPC)
 [![CyberPhysicalSystems](https://img.shields.io/badge/Cyber_Physical_Systems-grey?style=for-the-badge&logo=CyberPhysical_systems&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Cyber_Physical_Systems)
 [![SystemsIntegration](https://img.shields.io/badge/Systems_Integration-grey?style=for-the-badge&logo=Systems_Integration&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
+[![Arduino](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=Arduino&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
 [![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++&logoColor=appveyor)](https://github.com/DariaMartinovskaya/HPC)
 [![Node-Red](https://img.shields.io/badge/Node-Red-grey?style=for-the-badge&logo=Node-Red&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
 [![ESP32](https://img.shields.io/badge/ESP32-grey?style=for-the-badge&logo=ESP32&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Systems_Integration)
