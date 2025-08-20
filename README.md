@@ -31,6 +31,7 @@
 [![Fiddler](https://img.shields.io/badge/Fiddler-grey?style=for-the-badge&logo=FIDDLER&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Fiddler/tree/main)
 [![Accessibility_testing](https://img.shields.io/badge/ACCESSIBILITY_TESTING-grey?style=for-the-badge&logo=ACCESSIBILITY&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Accessibility_testing)
 ![WAVE](https://img.shields.io/badge/WAVE-grey?style=for-the-badge&logo=WAVE&logoColor=appveyor)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-grey?style=for-the-badge&logo=BrowserStack&logoColor=appveyor)
 [![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=SQL&logoColor=appveyor)](https://www.github.com/DariaMartinovskaya/SQL)
 ![DBeaver](https://img.shields.io/badge/DBeaver-grey?style=for-the-badge&logo=DBEAVER&logoColor=appveyor)
 ![NoSQL](https://img.shields.io/badge/NoSQL-grey?style=for-the-badge&logo=NoSQL&logoColor=appveyor)
