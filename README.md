@@ -1,6 +1,6 @@
 ## Hi there, I'm Daria Martinovskaya.
 
-### :woman_technologist: QA Engineer with 1,5 years of experience in mobile (iOS/Android) and web apps manual testing.
+### :woman_technologist: QA Engineer with 2 years of experience in mobile (iOS/Android) and web apps manual testing.
 
 ### :mortar_board: Pursuing a Master's program in Informatics Engineering and Internet of Things (IoT) in Portugal (2nd year).
 
