@@ -4,7 +4,7 @@
 
 ### :mortar_board: Pursuing a Master's program in Informatics Engineering and Internet of Things (IoT) in Portugal (2nd year).
 
-### Learning test automation.
+### :mortar_board: Learning test automation.
 
 ### ⚖️ Former IT Lawyer – leveraging 5+ years of analytical problem-solving for meticulous test strategies.
 ### 🌍 Portugal-based (full work rights) or remote.
