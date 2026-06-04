@@ -1,4 +1,4 @@
-## Hi there, I'm Daria Martinovskaya
+## Hi there, I'm Darya Martsinouskaya
 
 ### :woman_technologist: QA Engineer with almost 3 years of experience in mobile (iOS/Android) and web apps manual testing
 
