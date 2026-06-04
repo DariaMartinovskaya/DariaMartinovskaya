@@ -1,13 +1,13 @@
-## Hi there, I'm Daria Martinovskaya.
+## Hi there, I'm Daria Martinovskaya
 
-### :woman_technologist: QA Engineer with almost 3 years of experience in mobile (iOS/Android) and web apps manual testing.
+### :woman_technologist: QA Engineer with almost 3 years of experience in mobile (iOS/Android) and web apps manual testing
 
-### :mortar_board: Pursuing a Master's program in Informatics Engineering and Internet of Things (IoT) in Portugal (2nd year).
+### :mortar_board: Pursuing a Master's in Informatics Engineering and (IoT) (2nd year) | Portugal --> [![LinktoMasterThesis](https://img.shields.io/badge/Master's-Project-aa8080)](https://github.com/DariaMartinovskaya/Smart_AirGuard) 
 
-### 🤖 Learning test automation.
+### 🤖 Learning test automation
 
 ### ⚖️ Former IT Lawyer – leveraging 5+ years of analytical problem-solving for meticulous test strategies.
-### 🌍 Portugal-based (full work rights) or remote.
+### 🌍 Portugal-based (full work rights) or remote
 
 ---
 
