@@ -2,7 +2,7 @@
 
 ### :woman_technologist: QA Engineer with almost 3 years of experience in mobile (iOS/Android) and web apps manual testing
 
-### :mortar_board: Pursuing a Master's in Informatics Engineering and Internet of Things (IoT) (2nd year) | Portugal --> [![LinktoMasterThesis](https://img.shields.io/badge/Master's-Project-aa8080)](https://github.com/DariaMartinovskaya/Smart_AirGuard) 
+### :mortar_board: Finishing Master's in Informatics Engineering and Internet of Things (IoT) (2nd year) at Polytechnic Institute of Beja, Portugal --> [![LinktoMasterThesis](https://img.shields.io/badge/Master's-Project-aa8080)](https://github.com/DariaMartinovskaya/Smart_AirGuard) 
 
 ### 🤖 Learning test automation
 
