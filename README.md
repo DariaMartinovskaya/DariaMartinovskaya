@@ -90,7 +90,7 @@
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-01-17%20Deutschkurs%20B1.2%20OnlineSprachschule%20JuKu-Deutsch.png" alt="Deutschkurs_B1.2" width="150"></a>
 # ![German](https://img.shields.io/badge/German-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/General_Professional_proficiency-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 # ![Russian](https://img.shields.io/badge/russian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Belarusian](https://img.shields.io/badge/Belarusian-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/Native-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
-# ![Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
+# ![Portuguese](https://img.shields.io/badge/Portuguese-grey?style=for-the-badge&logo=english&logoColor=appveyor) !![Spanish](https://img.shields.io/badge/Spanish-grey?style=for-the-badge&logo=english&logoColor=appveyor) [Czech](https://img.shields.io/badge/Czech-grey?style=for-the-badge&logo=english&logoColor=appveyor)  ![Level](https://img.shields.io/badge/ELEMENTARY_PROFICIENCY-lightgrey?style=for-the-badge&logo=english&logoColor=appveyor) 
 
 ---
 
