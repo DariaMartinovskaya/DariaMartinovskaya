@@ -49,6 +49,7 @@
 ![Mentoring](https://img.shields.io/badge/Mentoring-grey?style=for-the-badge&logo=Mentoring&logoColor=appveyor)
 
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-grey?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=appveyor)
+![InternetOfThings](https://img.shields.io/badge/Internet_Of_Things-grey?style=for-the-badge&logo=Internet_Of_Things&logoColor=appveyor)
 ![PyCharm_CE](https://img.shields.io/badge/PyCharm_CE-grey?style=for-the-badge&logo=PyCharmCE&logoColor=appveyor)
 ![Big_Data](https://img.shields.io/badge/Big_data-grey?style=for-the-badge&logo=Big_data&logoColor=appveyor)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB&logoColor=appveyor)
@@ -77,7 +78,6 @@
 [![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=AUTOMATION&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Selenium](https://img.shields.io/badge/Selenium-grey?style=for-the-badge&logo=SELENIUM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Selenium_autotests_practice)
 [![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=Codewars&logoColor=appveyor)](https://www.codewars.com/users/DariaMartinovskaya)
-![InternetOfThings](https://img.shields.io/badge/Internet_Of_Things-grey?style=for-the-badge&logo=Internet_Of_Things&logoColor=appveyor)
 ---
 
 ### Test documentation
