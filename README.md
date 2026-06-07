@@ -71,13 +71,13 @@
 ![CupCarbon](https://img.shields.io/badge/Cup_Carbon-grey?style=for-the-badge&logo=CupCarbon&logoColor=appveyor)
 [![DataScience](https://img.shields.io/badge/Data_Science-grey?style=for-the-badge&logo=Data_Science&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Data_Science)
 [![KNIME](https://img.shields.io/badge/KNIME-grey?style=for-the-badge&logo=KNIME&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Data_Science)
+[![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=Codewars&logoColor=appveyor)](https://www.codewars.com/users/DariaMartinovskaya)
 
 ### I am currently learning
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=PYTHON&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Pycharm](https://img.shields.io/badge/Pycharm-grey?style=for-the-badge&logo=PYCHARM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=AUTOMATION&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Selenium](https://img.shields.io/badge/Selenium-grey?style=for-the-badge&logo=SELENIUM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Selenium_autotests_practice)
-[![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=Codewars&logoColor=appveyor)](https://www.codewars.com/users/DariaMartinovskaya)
 ---
 
 ### Test documentation
