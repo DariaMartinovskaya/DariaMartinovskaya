@@ -78,6 +78,9 @@
 [![Pycharm](https://img.shields.io/badge/Pycharm-grey?style=for-the-badge&logo=PYCHARM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=AUTOMATION&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Python)
 [![Selenium](https://img.shields.io/badge/Selenium-grey?style=for-the-badge&logo=SELENIUM&logoColor=appveyor)](https://github.com/DariaMartinovskaya/Selenium_autotests_practice)
+![Appium](https://img.shields.io/badge/Appium-grey?style=for-the-badge&logo=Appium&logoColor=appveyor)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-grey?style=for-the-badge&logo=BrowserStack&logoColor=appveyor)
+
 ---
 
 ### Test documentation
