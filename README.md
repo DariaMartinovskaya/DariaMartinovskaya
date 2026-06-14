@@ -6,7 +6,7 @@
 
 ### 🤖 Learning test automation
 
-### ⚖️ Former IT Lawyer – leveraging 5+ years of analytical problem-solving for meticulous test strategies
+### ⚖️ IT Lawyer background – leveraging 5+ years of analytical problem-solving for meticulous test strategies
 ### 🌍 Portugal-based (full work rights) or remote
 
 ---
